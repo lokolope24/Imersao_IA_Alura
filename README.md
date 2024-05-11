@@ -5,7 +5,7 @@
 
 Adentrar o universo da tecnologia pode ser uma experiência desafiadora, especialmente quando se inicia na área de Help Desk, onde é necessário lidar com uma vasta gama de usuários, softwares, hardwares e outras tecnologias muitas vezes desconhecidas. Reconhecemos a importância de ter um mentor experiente ao lado nesses momentos cruciais, mas sabemos que nem sempre isso é possível.
 
-Por isso, apresentamos o **HelpDesk IAssist** – a solução ideal para instruir os novatos por meio de um histórico comprovado de soluções eficazes em infraestrutura. Imagine ter um profissional experiente sempre disponível, pronto para orientar você através de cada desafio com a sabedoria de anos de experiência.
+Por isso, o **HelpDesk IAssist**  é a solução ideal para instruir os novatos por meio de um histórico comprovado de soluções eficazes em infraestrutura. Imagine ter um profissional experiente sempre disponível, pronto para orientar você através de cada desafio com a sabedoria de anos de experiência.
 
 ## Principais Funcionalidades:
 - **Base de Dados Robusta:** Utiliza um extenso banco de dados com incidentes previamente solucionados, garantindo referências confiáveis e testadas.
