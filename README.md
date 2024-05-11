@@ -1,7 +1,7 @@
 # HelpDesk IAssist
 <img src="https://www.alura.com.br/assets/img/imersoes/imersao-ia-google-gemini/logo.1715192575.png" width="200px"><figcaption></figcaption>
 
-# Maximize a Eficiência do seu Help Desk com o Assistente IAssist!
+# Maximize a Eficiência do seu Help Desk com o HelpDesk IAssist!
 
 Adentrar o universo da tecnologia pode ser uma experiência desafiadora, especialmente quando se inicia na área de Help Desk, onde é necessário lidar com uma vasta gama de usuários, softwares, hardwares e outras tecnologias muitas vezes desconhecidas. Reconhecemos a importância de ter um mentor experiente ao lado nesses momentos cruciais, mas sabemos que nem sempre isso é possível.
 
