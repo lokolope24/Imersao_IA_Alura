@@ -19,7 +19,10 @@ Por isso, o **HelpDesk IAssist**  é a solução ideal para instruir os novatos 
 **Transforme o seu Help Desk com o Assistente IAssist: onde experiência e inovação caminham juntas!**
 
 
-    
+![image](https://github.com/lokolope24/Imersao_IA_Alura/assets/168781533/04e6c1d4-8609-43f2-bee6-62d9e3ca90ee)
+
+![image](https://github.com/lokolope24/Imersao_IA_Alura/assets/168781533/d48dc76f-0357-4821-8362-44f8c24dbba5)
+
 
 
 
